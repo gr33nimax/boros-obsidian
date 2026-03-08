@@ -41,4 +41,4 @@ The easiest way to install Boros right now is via the [BRAT](https://github.com/
 
 ## 🤝 Support
 If you find Boros helpful in your journey of personal growth, consider supporting its active development!
-*(Add your Patreon / BuyMeACoffee links here)*
+https://boosty.to/mrgreenier/
