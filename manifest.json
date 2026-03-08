@@ -1,0 +1,28 @@
+{
+  "id": "boros-reflection",
+  "name": "Boros",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Deep reflection and note analysis plugin for personal growth. An ouroboros of self-knowledge.",
+  "author": "Antigravity",
+  "authorUrl": "https://github.com/google-deepmind",
+  "isDesktopOnly": true,
+  "hotkeys": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "A"
+    },
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "L"
+    },
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "P"
+    },
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "C"
+    }
+  ]
+}

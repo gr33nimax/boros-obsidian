@@ -1,0 +1,39 @@
+# Obsidian rules
+.obsidian/
+.trash/
+
+# Development
+node_modules/
+dist/
+build/
+.env
+
+# MacOS / Windows OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Security
+shadow.json
+*.pem
+*.key
+
+# npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Build outputs
+# Мы коммитим main.js, manifest.json и styles.css, если хотим, чтобы плагин ставился через BRAT прямо из репозитория.
+# Если нет — их тоже можно скрыть и грузить только в Release-ветки.
+# В данном случае мы НЕ игнорируем собранные файлы (main.js).

@@ -1,0 +1,22 @@
+{
+  "name": "boros-obsidian",
+  "version": "0.1.0",
+  "description": "Boros reflection Obsidian plugin",
+  "main": "main.js",
+  "scripts": {
+    "build": "node esbuild.config.mjs production",
+    "dev": "node esbuild.config.mjs"
+  },
+  "keywords": [],
+  "author": "Antigravity",
+  "license": "MIT",
+  "dependencies": {
+    "@huggingface/transformers": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "esbuild": "^0.20.0",
+    "obsidian": "latest",
+    "typescript": "^5.4.0"
+  }
+}
